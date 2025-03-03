@@ -1,7 +1,7 @@
 <img src='https://cdn.discordapp.com/attachments/1342848006092754976/1346076818436001896/Developercard.png?ex=67c6df3a&is=67c58dba&hm=1cef37e042011ed8160df044a61d3c6640f9026de55190302bda156605523be1&' align="right" height="50%" width="50%">
 <h1 align="left">Hi 👋 I'm Froster</h1>
 
-# 🤙🏽Contact Me
+# 🤙🏽Reach Me on below
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fbeefroster&style=for-the-badge&logo=X&label=Tweet%20Me)
 
 # ✨ Ambitions
