@@ -1,4 +1,4 @@
-<img src='https://cdn.discordapp.com/attachments/1342848006092754976/1346076818436001896/Developercard.png?ex=67c6df3a&is=67c58dba&hm=1cef37e042011ed8160df044a61d3c6640f9026de55190302bda156605523be1&' align="right" height="50%" width="50%">
+<img src='https://i.postimg.cc/WpGZRYCL/Developercard.png' align="right" height="50%" width="50%">
 <h1 align="left">Hi 👋 I'm Froster</h1>
 
 # 🤙🏽Reach Me on below
